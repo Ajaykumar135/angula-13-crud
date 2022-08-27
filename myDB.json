@@ -1,0 +1,22 @@
+{
+  "posts": [
+     {
+      "productName":"apple",
+      "category":"fruits",
+      "price":"1100",
+      "freshness":"brandnew",
+      "date":"11-03-2022",
+      "id":1
+     }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
